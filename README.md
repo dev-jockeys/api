@@ -1,8 +1,5 @@
-# Gift App Backend
+# Workout app App Backend
 
-A back end interface for viewing and editing a mobile gift app.
-
-To be consumed by [gift-app-mobile](https://github.com/RealWeeks/gift-app-mobile).
 
 ## Getting Started
 
@@ -49,5 +46,3 @@ PRs completely welcome.
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
-
-* Alex Korth for UX/UI
